@@ -1,0 +1,32 @@
+{
+
+
+	"linux": {
+		"ffmpeg_path": "/job/fcomms/opt/ffmpeg/ffmpeg-git.20170913/bin/ffmpeg"
+	},
+
+	"giphy": {
+		"api_key": "0TzQIXtH26R9j4WSVWirvshBSphN0RqP",
+		"rating":"g",
+		"giph_path":"giphs/thegipph.gif",
+		"search_list": ["Dancing+Queen", "Computer+Fun",
+			"So+Hot", "So+Cute",
+			"So+Fun", "The+Humberto",
+			"Film+Editors", "Data+Fly",
+			"awesome", "hooray",
+			"happy", "your+the+best",
+			"explode", "disney",
+			"socal", "beach+days",
+			"so+cute", "film",
+			"vfx","magic"
+		]
+		
+	},
+
+	"universal":{
+		"img_fileExt": [".jpg", ".dpx", ".png", ".tif", ".exr",".tiff" ]
+
+	}
+
+
+}
