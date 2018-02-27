@@ -2,11 +2,11 @@
 
 
 	"linux": {
-		"ffmpeg_path": "/job/fcomms/opt/ffmpeg/ffmpeg-git.20170913/bin/ffmpeg"
+		"ffmpeg_path": "ffmpeg"
 	},
 
 	"giphy": {
-		"api_key": "0TzQIXtH26R9j4WSVWirvshBSphN0RqP",
+		"api_key": "",
 		"rating":"g",
 		"giph_path":"giphs/thegipph.gif",
 		"search_list": ["Dancing+Queen", "Computer+Fun",
